@@ -6,7 +6,7 @@ import java.io.InputStreamReader;
 import java.util.Arrays;
 
 //메모리 : 
-//시간 : 76 ms
+//시간 : 
 
 //9C7의 조합의 합 문제
 public class Algo {
